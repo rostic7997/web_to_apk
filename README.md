@@ -7,7 +7,7 @@ sudo apt install git adb default-jdk android-build-tools-installer android-sdk-p
 ```
 #### Загрузка файлов
 ```
-git clone https://github.com/nektonick/web_to_apk
+https://github.com/rostic7997/web_to_apk.git
 cd web_to_apk/app
 export ANDROID=/usr/lib/android-sdk/platforms/android-23/android.jar
 ```
